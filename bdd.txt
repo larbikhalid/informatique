@@ -1,0 +1,11 @@
+db:aisee_db
+
+
+
+mongodb+srv://larbi_user:cwkJbJX9RSzlq1bv@aisee.lz7g4.mongodb.net/aisee_db?retryWrites=true&w=majority
+
+
+larbi_user
+
+mW9FgH8iV2S3U3ly
+
